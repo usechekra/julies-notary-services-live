@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Map illustration centered on Holladay and Salt Lake City, Utah">
+  <rect width="1200" height="520" fill="#e7efe9"/>
+  <g fill="none" stroke="#f9fbfa" stroke-width="34">
+    <path d="M-40 390 C180 340 330 380 515 270 S850 90 1250 120"/>
+    <path d="M180 -40 C210 95 300 210 420 300 S620 470 650 560"/>
+    <path d="M850 -40 C800 130 850 245 1010 330 S1160 430 1240 500"/>
+  </g>
+  <g fill="none" stroke="#b7c8bc" stroke-width="5">
+    <path d="M-40 390 C180 340 330 380 515 270 S850 90 1250 120"/>
+    <path d="M180 -40 C210 95 300 210 420 300 S620 470 650 560"/>
+    <path d="M850 -40 C800 130 850 245 1010 330 S1160 430 1240 500"/>
+  </g>
+  <g fill="none" stroke="#cad7ce" stroke-width="10">
+    <path d="M0 95 L1200 460"/><path d="M0 480 L1200 245"/><path d="M425 0 L350 520"/><path d="M1030 0 L910 520"/>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#5b7062"><text x="72" y="82" font-size="24">Salt Lake City</text><text x="716" y="424" font-size="28" font-weight="700">Holladay</text><text x="905" y="92" font-size="18">Wasatch Blvd</text></g>
+  <g transform="translate(755 300)"><path d="M0-65c-36 0-64 28-64 64 0 48 64 113 64 113S64 47 64-1C64-37 36-65 0-65z" fill="#d96c4e"/><circle cy="-2" r="23" fill="#fff"/></g>
+</svg>
